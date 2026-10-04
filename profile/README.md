@@ -12,7 +12,7 @@
 | [WebP / AVIF Converter](https://app-kit.dev/tools/image-converter) | Convert JPG, PNG and HEIC to WebP or AVIF in one click |
 | [Image Resizer](https://app-kit.dev/tools/image-resizer) | Resize and crop by pixels or 1:1, 16:9, 4:3 presets, export to JPG, PNG or WebP — runs in the browser |
 | [SEO Audit](https://app-kit.dev/tools/seo-audit) | Technical SEO and AI-readiness audit: 400 checks in 36 groups, a 0–100 score, a prioritized fix list and a PDF report |
-| PDF to Images *(coming soon)* | Convert PDF pages to PNG, JPG or WebP with DPI and page range — files are deleted right after download |
+| [PDF to Images](https://app-kit.dev/tools/pdf-to-image) | Convert PDF pages to PNG, JPG or WebP at 96, 150 or 300 DPI — files are deleted right after download |
 | [Text Analyzer](https://app-kit.dev/tools/text-analyzer) | Readability, keyword stuffing, filler phrases, top words and grammar for English and Russian, up to 20,000 characters |
 
 ### API
@@ -28,6 +28,7 @@ SEO audit, text checks, image and PDF tools as an MCP server for Claude, Cursor,
 - [Free online SEO audit: 400-point website check with a score and PDF](https://app-kit.dev/blog/seo-audit-online)
 - [Technical SEO audit checklist: 18 checks that actually matter](https://app-kit.dev/blog/seo-audit-checklist)
 - [Online text checker: readability, keyword stuffing, filler and grammar](https://app-kit.dev/blog/text-check-online)
+- [PDF to JPG, PNG and WebP: which format and DPI to pick](https://app-kit.dev/blog/pdf-to-jpg-png-webp)
 - [WebP vs JPG vs PNG: which image format to use in 2026](https://app-kit.dev/blog/webp-vs-jpg)
 
 ### Team
