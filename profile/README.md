@@ -1,6 +1,6 @@
 ## App-Kit
 
-**Free web tools and developer APIs for site owners and developers** — image compression, WebP/AVIF conversion, a 400-point technical SEO audit and a text checker. Free in the browser with no sign-up and no watermarks; the same engines are available via API, paid by credits.
+**Free web tools and developer APIs for site owners and developers** — image compression, WebP/AVIF conversion, PDF to images, a 400-point technical SEO audit and a text checker. Free in the browser with no sign-up and no watermarks; the same engines are available via API, paid by credits.
 
 [Website](https://app-kit.dev) · [Tools](https://app-kit.dev/tools) · [Blog](https://app-kit.dev/blog) · [Telegram](https://t.me/app_kit_dev) · [Русская версия](https://app-kit.ru)
 
@@ -12,6 +12,7 @@
 | [WebP / AVIF Converter](https://app-kit.dev/tools/image-converter) | Convert JPG, PNG and HEIC to WebP or AVIF in one click |
 | [Image Resizer](https://app-kit.dev/tools/image-resizer) | Resize and crop by pixels or 1:1, 16:9, 4:3 presets, export to JPG, PNG or WebP — runs in the browser |
 | [SEO Audit](https://app-kit.dev/tools/seo-audit) | Technical SEO and AI-readiness audit: 400 checks in 36 groups, a 0–100 score, a prioritized fix list and a PDF report |
+| PDF to Images *(coming soon)* | Convert PDF pages to PNG, JPG or WebP with DPI and page range — files are deleted right after download |
 | [Text Analyzer](https://app-kit.dev/tools/text-analyzer) | Readability, keyword stuffing, filler phrases, top words and grammar for English and Russian, up to 20,000 characters |
 
 ### API
@@ -20,7 +21,7 @@ Automate the same engines from your own code: pay per use with App-Kit credits, 
 
 ### MCP server for AI agents — coming soon
 
-SEO audit, text checks and image tools as an MCP server for Claude, Cursor, VS Code and other AI agents. Remote Streamable HTTP, a free tier without sign-up.
+SEO audit, text checks, image and PDF tools as an MCP server for Claude, Cursor, VS Code and other AI agents. Remote Streamable HTTP, a free tier without sign-up.
 
 ### Guides
 
