@@ -2,7 +2,7 @@
 
 **Free web tools and developer APIs for site owners and developers** — image compression, WebP/AVIF conversion, PDF to images, a 400-point technical SEO audit and a text checker. Free in the browser with no sign-up and no watermarks; the same engines are available via API, paid by credits.
 
-[Website](https://app-kit.dev) · [Tools](https://app-kit.dev/tools) · [Blog](https://app-kit.dev/blog) · [Telegram](https://t.me/app_kit_dev) · [Русская версия](https://app-kit.ru)
+[Website](https://app-kit.dev) · [Tools](https://app-kit.dev/tools) · [Blog](https://app-kit.dev/blog) · [Русская версия](https://app-kit.ru)
 
 ### Tools
 
